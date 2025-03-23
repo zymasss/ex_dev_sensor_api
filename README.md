@@ -1,6 +1,6 @@
 🚀 Sensor API – Development Tracking
 
-This project is an API developed with FastAPI. Although I did not personally code this API, I followed its development commit by commit, under the supervision of Benjamin Dubreu, who guided me throughout the entire process.
+This project is an API developed with FastAPI. I was supervised by Benjamin Dubreu, who guided me throughout the development process of this API, commit by commit.
 
 This experience allowed me to:  
 - ✅ Gain an in-depth understanding of the technical and architectural choices made in the project.  
@@ -13,7 +13,7 @@ Thanks to this immersion, I was able to strengthen my backend development skills
 
 🚀 API Sensor – Suivi du Développement
 
-Ce projet est une API développée avec FastAPI. Bien que je n'aie pas personnellement codé cette API, j'ai suivi son développement commit par commit, sous la supervision de Benjamin Dubreu, qui m'a accompagné du début à la fin du processus.
+Ce projet est une API développée avec FastAPI, réalisée sous la supervision de Benjamin Dubreu. Il m'a accompagné tout au long du processus, en me guidant à chaque étape du développement, commit après commit.
 
 Ce suivi m'a permis de :  
 - ✅ Comprendre en profondeur les choix techniques et architecturaux du projet.  
